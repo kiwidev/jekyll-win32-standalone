@@ -12,7 +12,7 @@ Inspired by Pretzel, Scribble - see additional projects as well
 
 ## Usage
 
-* TODO *
+TODO
 
 ## Contents
 
